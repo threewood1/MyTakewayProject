@@ -1,0 +1,4 @@
+com\sky\controller\user\DishController.class
+com\sky\interceptor\JwtTokenUserInterceptor.class
+com\sky\controller\user\SetmealController.class
+com\sky\controller\user\CategoryController.class

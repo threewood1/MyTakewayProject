@@ -1,0 +1,4 @@
+1. 启动mysql：管理员cmd：net start mysql；密码：mysql
+2. 启动nginx：D:\MyTakewayProject\FrontProject\nginx-1.20.2下双击nginx.exe
+3. 启动redis：D:\Redis-x64-3.2.100下cmd：redis-server.exe redis.windows.conf
+4. 打开：微信开发者工具、IDEA、http://localhost:8080/doc.html、Another Redis Desktop、http://localhost/#/login、postman
